@@ -18,7 +18,7 @@ For creating legal charms consult this page: [Charm skills & slots googlesheet](
 The pre-built executable in the releases page should work on a fresh Windows 10 install provided you have installed your graphics drivers and your graphics card supports OpenGL Core 3.3, but if you can run the game then it should be fine.
 On Linux you will need to build it yourself.
 
-Make sure the game is running before starting the program!
+Make sure the game is running and you have loaded a save before starting the program!
 
 ## Build
 ### Windows
